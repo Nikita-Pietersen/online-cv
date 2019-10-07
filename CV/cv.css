@@ -1,0 +1,14 @@
+body{
+	background-image: url("back3.jpg");
+	background-repeat: no-repeat;
+    background-size: 100% 100%;
+	text-align: center;
+	font-size: 30px;
+}
+
+h2,p,ul{
+	background-color: #f1abff;
+	border-radius: 20%
+	font-size:25px;
+	list-style-type: none;
+}
